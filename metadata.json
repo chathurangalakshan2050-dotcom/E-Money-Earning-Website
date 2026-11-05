@@ -1,0 +1,6 @@
+{
+  "name": "CashTycoon 3000 - Fake Money Simulator & Scam Buster",
+  "description": "Hyper-engaging satirical fake money earning simulator and scam awareness experience. Tap for billions, spin the wheel of fortune, upgrade meme hustles, and spot real-world scam red flags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
